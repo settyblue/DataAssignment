@@ -6,7 +6,7 @@
 This file will helping in understanidng the dataset attached in this project.
 The dimension of the dataset is **180 X 68**. The dataset file contains the column headers (column names) - While extracting the dataset, make a note of it.The row names are not present.
 
-> Basically there are 30 subjects and for each subject we have, 6 Activities , so in total 30X6 =  180.
+> Basically there are 30 subjects and for each subject we have, 6 Activities , so in total 30X6 =  180 rows.
 
 The column labels and thier legend are mentioned below. For help regarding the naming of the column labels please scroll down to bottom of the page.
 
