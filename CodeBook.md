@@ -11,6 +11,7 @@ The dimension of the dataset is **180 X 68**. The dataset file contains the colu
 The column labels and thier legend are mentioned below. For help regarding the naming of the column labels please scroll down to bottom of the page.
 
 (Columns 3 to 68 are the observations)
+
 1. Subject   (IDs from 1:30)
 2. Activity   (Factors) 
     - WALKING
