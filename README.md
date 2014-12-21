@@ -1,5 +1,6 @@
 # Human Activity Recognition Using Smartphones Dataset (Modified)
 #####Version : 1.0  
+#####Date : 21-12-2014
 #####Author : Rakshith Kunchum  
 #####Contact : [settyblue].[at].[gmail].[com]
 
