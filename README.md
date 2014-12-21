@@ -21,5 +21,16 @@ So in order to read the data into your R environment, you can run the following 
 ```sh
 > read.table("Summarised_Dataset.txt",header=TRUE)
 ```
+The R Script has suffient comments and is self-explanatory.
+If you run the script the necessary data will be extracted and cleaned and written into text files.
+In Brief, the script does the following:
+  - Extract Data from text files.
+  - join the test and train datasets.
+  - clean the features-label-texts and add it as column-labels.
+  - create the Complete dataset along with column names.
+  - Subset this dataset to select only those columns which are necessary(mean and standard deviation)
+  - group by the 'Subject' and 'Actvity' columns and summarize the results.
+  - export this dataset to text file.
+
 #####Note 
 The dataset files are viewed best on Notepad++ for Windows users.
