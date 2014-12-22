@@ -10,7 +10,7 @@ The dimension of the dataset is **180 X 68**. The dataset file contains the colu
 
 The column labels and thier legend are mentioned below. For help regarding the naming of the column labels please scroll down to bottom of the page.
 
-(Columns 3 to 68 are the observations)
+(Columns 3 to 68 are the observations. Data Type of these observations is Number.)
 
 1. Subject   (IDs from 1:30)
 2. Activity   (Factors) 
@@ -101,4 +101,4 @@ fBodyGyro_mean_X
 It is a frequency attribute by name 'BodyGyro'. The mean of the attribute along the X-axis is recorded here.
 
 ###Note
-For more information regarding the features, please read features_info.txt file present in the problem-statement.
+For more information regarding the observed features, please read features_info.txt file present in the problem-statement.
