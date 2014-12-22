@@ -17,7 +17,8 @@ The column labels and thier legend are mentioned below. For help regarding the n
     - WALKING
     - WALKING_UPSTAIRS
     - WALKING_DOWNSTAIRS
-    - SITTINGSTANDING
+    - SITTING
+    - STANDING
     - LAYING
 3. tBodyAcc_mean_X
 4. tBodyAcc_mean_Y
